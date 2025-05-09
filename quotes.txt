@@ -1,0 +1,6 @@
+1, "Life is like riding a bicycle. To keep your balance, you must keep moving.", Albert Einstein
+2, "Not all those who wander are lost.", J. R. R. Tolkien
+3, "No one can make you feel inferior without your consent.", Eleanor Roosevelt
+4, "All that glitters is not gold.", William Shakespeare
+5, "Ask, and it shall be given you; seek, and you shall find.", the Bible
+6, "If at first you don't succeed, try, try again.", W. E. Hickson
