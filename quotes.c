@@ -149,5 +149,5 @@ int main(void)
     return 0;
 }
 
-// got help from here:
+// got some inspiration from here:
 // https://stackoverflow.com/questions/69065578/reading-data-from-file-into-structure-in-c-programming-language
